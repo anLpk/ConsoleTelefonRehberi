@@ -1,0 +1,16 @@
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.exe
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.deps.json
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.runtimeconfig.json
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.runtimeconfig.dev.json
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.dll
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\bin\Debug\net5.0\ref\TelefonRehberi.dll
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.pdb
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.AssemblyInfo.cs
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.dll
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\obj\Debug\net5.0\ref\TelefonRehberi.dll
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.pdb
+C:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\ConsoleTelefonRehberi\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.genruntimeconfig.cache
